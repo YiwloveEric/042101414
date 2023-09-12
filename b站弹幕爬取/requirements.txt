@@ -1,0 +1,7 @@
+pip install pandas 
+pip install fake_useragent
+pip install Request
+pip install beautifulsoup4
+pip install jieba
+pip install wordcloud
+pip install imageio
